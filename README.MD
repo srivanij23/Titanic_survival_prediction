@@ -107,4 +107,6 @@ Tools & Libraries Used
    👩‍💻 Author
 
 Srivani Jadav
-🔗 GitHub | LinkedIn
+🔗 [GitHub](https://github.com/srivanij23) | [LinkedIn: Srivani Jadav](https://www.linkedin.com/in/jadav-srivani-1854b1271/)
+
+

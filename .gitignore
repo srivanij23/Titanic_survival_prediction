@@ -1,0 +1,25 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Streamlit-specific
+/.streamlit/
+
+# Data files
+data/*.csv
+
+# IDEs and editors (if using VSCode or others)
+.vscode/
+.idea/
+
+# Logs
+*.log

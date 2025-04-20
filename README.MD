@@ -40,6 +40,17 @@ The goal is to develop a classification model with high accuracy and performance
 ---
 
 ## 🧪 Evaluation Metrics
+The model is evaluated using the following metrics:
+
+  1.Accuracy: The percentage of correct predictions.
+
+  2.Precision: The proportion of true positives out of all positive predictions.
+
+  3.Recall: The proportion of true positives out of all actual positives.
+
+  4.F1 Score: The harmonic mean of precision and recall.
+
+  5.Confusion Matrix: A matrix to visualize the performance of the model.
 
 | Metric            | Value     |
 |------------------|-----------|
@@ -48,6 +59,16 @@ The goal is to develop a classification model with high accuracy and performance
 | Recall            | 1.0000    |
 | F1 Score          | 1.0000    |
 | Cross-Validation  | 1.0000 ± 0.0000 |
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        50
+           1       1.00      1.00      1.00        34
+
+    accuracy                           1.00        84
+   macro avg       1.00      1.00      1.00        84
+weighted avg       1.00      1.00      1.00        84
 
 > ⚠️ Note: Extremely high performance may indicate data leakage or overfitting. Please validate with a different dataset if possible.
 
@@ -67,8 +88,15 @@ The goal is to develop a classification model with high accuracy and performance
 ```bash
 git clone https://github.com/srivanij23/rvival-Prediction.git
 cd Titanic-Survival-Prediction
+```
 
- Tools & Libraries Used
+---
+
+## 2.     Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+Tools & Libraries Used
 
     Python
     Pandas, NumPy

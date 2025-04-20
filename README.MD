@@ -67,3 +67,16 @@ The goal is to develop a classification model with high accuracy and performance
 ```bash
 git clone https://github.com/srivanij23/rvival-Prediction.git
 cd Titanic-Survival-Prediction
+
+ Tools & Libraries Used
+
+    Python
+    Pandas, NumPy
+    Scikit-learn
+    Matplotlib
+    Jupyter Notebook (optional for exploration)
+
+   👩‍💻 Author
+
+Srivani Jadav
+🔗 GitHub | LinkedIn

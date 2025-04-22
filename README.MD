@@ -86,7 +86,7 @@ weighted avg       1.00      1.00      1.00        84
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/srivanij23/rvival-Prediction.git
+git clone https://github.com/srivanij23/Titanic_survival_prediction.git
 cd Titanic-Survival-Prediction
 ```
 

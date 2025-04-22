@@ -12,7 +12,7 @@ The goal is to develop a classification model with high accuracy and performance
 ---
 
 ## 📂 [Dataset](https://www.kaggle.com/datasets/brendan45774/test-file)
----
+
 - File used: `tested.csv`
 - Features:
   - `Pclass`, `Sex`, `Age`, `SibSp`, `Parch`, `Fare`, `Embarked`
